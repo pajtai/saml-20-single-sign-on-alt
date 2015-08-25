@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SAML 2.0 Single Sign-On (ALT)
-Version: 0.9.2
+Version: 0.9.3
 Plugin URI: http://keithbartholomew.com
 Description: Authenticate users using <a href="http://rnd.feide.no/simplesamlphp">simpleSAMLphp</a>.
 Author: Keith Bartholomew
